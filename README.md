@@ -5,6 +5,8 @@
  ## Wallpaper
  For the wallpaper I uses a simple diffused normal map that takes in a normal map as well as a material and colour.  
  ![image](https://user-images.githubusercontent.com/69608587/233697440-bdb15c67-355f-41ba-a73b-093a785b18c2.png)
+ ![image](https://user-images.githubusercontent.com/69608587/233711039-64ba0f69-63aa-4a3c-aeaf-51dd7a62b4ee.png)
+
 
 I paired this with a created texture and normal map. to have the rough bumpy wall feeling. 
 ![image](https://user-images.githubusercontent.com/69608587/233698393-c85c3fbc-2676-46cb-b4f4-10a923eaa84f.png)
