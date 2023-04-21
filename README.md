@@ -18,12 +18,17 @@ Remembering how toon lava was done before, I decided to use a toonramp for my la
 
 
 ## Bloom
-For bloom, it iterates upon the rendered view, making bright parts look more saturated and brighter, in the process adding mmore
+For bloom, it iterates upon the rendered view, making bright parts look more saturated and brighter, in the process bluring the image.  The more iterations there are the brighter the bloom is and the blurrier it is. 
+![image](https://user-images.githubusercontent.com/69608587/233710612-b33b224a-af6c-4b01-816f-f30c439e0e8e.png)
 
 Before Bloom 
 ![image](https://user-images.githubusercontent.com/69608587/233705682-4da61a82-353c-467b-a0ee-dc5187bd8e7d.png)
 After Bloom  
 ![image](https://user-images.githubusercontent.com/69608587/233705707-a51484cf-b630-41e8-a2b5-950037aa1703.png)
+
+To toggle the bloom a script was made. 
+![image](https://user-images.githubusercontent.com/69608587/233710537-0e7344cd-1e8d-49cb-b8d3-c909506085d6.png)
+
 
 ## Extra shader
 For my extra shader, I used a toonwrap shader with a customized toonwrap I made to have interesting visual effect to the cylinder.  
