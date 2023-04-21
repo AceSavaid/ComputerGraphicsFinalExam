@@ -814,7 +814,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initposition: {fileID: 1080692950}
-  position2: {fileID: 225599702}
+  endposition: {fileID: 0}
 --- !u!1 &479448223
 GameObject:
   m_ObjectHideFlags: 0
@@ -1871,7 +1871,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2140
+  m_Name: pb_Mesh34854
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2450,7 +2450,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initposition: {fileID: 85896997}
-  position2: {fileID: 1792908201}
+  endposition: {fileID: 0}
 --- !u!23 &1688807879
 MeshRenderer:
   m_ObjectHideFlags: 0
