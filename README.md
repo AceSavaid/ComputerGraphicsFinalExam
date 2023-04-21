@@ -26,5 +26,11 @@ After Bloom
 ![image](https://user-images.githubusercontent.com/69608587/233705707-a51484cf-b630-41e8-a2b5-950037aa1703.png)
 
 ## Extra shader
-For my extra shader, I used a toonwrap shader with a customized toonwrap I made to have interesting visual effect to the cylinder. Since I was unsure if this would be enough to count as an extra shader, I added an outline pass to the 
+For my extra shader, I used a toonwrap shader with a customized toonwrap I made to have interesting visual effect to the cylinder.  
+![image](https://user-images.githubusercontent.com/69608587/233707064-de62c85f-f461-49ef-94cc-8a229f265324.png)
+
+Since I was unsure if this would be enough to count as an extra shader, I added an outline pass to the shader.  This adds a layer behind the object which extrudes the verticies of the object an colours it based on the given Extrusion Amount and Extrusion colour. 
+![image](https://user-images.githubusercontent.com/69608587/233707529-42fefe1f-49f6-49cf-a5d2-a785eec4cf93.png)
+
+
 ![image](https://user-images.githubusercontent.com/69608587/233706069-b0862751-80f9-481e-a8f4-4316ba40e41b.png)
