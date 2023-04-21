@@ -15,7 +15,9 @@ I paired this with a created texture and normal map. to have the rough bumpy wal
 
 
 ## Lava
-Remembering how toon lava was done before, I decided to use a toonramp for my lava effects to have more control on where the brightest and more saturated parts of the shading were. This added movement in the moving lava script would add life to the scene and be able to be toggled with a 
+Remembering how toon lava was done before, I decided to use a toonramp for my lava effects to have more control on where the brightest and more saturated parts of the shading were. This added movement in the moving lava script would add life to the scene and be able to be toggled with a script but unfortunately I did not have the time to implement. 
+![image](https://user-images.githubusercontent.com/69608587/233711111-72ce0a6d-6f14-4c12-8e54-a3ee07e0b800.png)
+
 ![image](https://user-images.githubusercontent.com/69608587/233705625-400994b7-54f5-4b1d-ad35-fc5d8240472b.png)
 
 
